@@ -12,7 +12,7 @@
   <img alt="status" src="https://api.bryth.dev/badges">
 </picture>
 
-#### Languages
+### Languages
 
 <picture>
   <source media="(max-width: 720px)" srcset="https://api.bryth.dev/languages?small=true">
