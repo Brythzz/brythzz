@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I'm Bryth** (he/him) - I'm a french engineering student and mostly work on web-related projects but also enjoy using low-level languages. I also do some moderation and translation in my free time!
+**I'm Bryth** (he/him) - I'm a french computer science student and mostly work on web-related projects but also enjoy using low-level languages. I also do some moderation and translation in my free time!
 
 <picture>
   <img alt="icons" src="https://skillicons.dev/icons?i=c,ocaml,js,html,css,nodejs,mongo,figma,ps,ai,xd">
